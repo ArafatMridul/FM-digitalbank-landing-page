@@ -48,24 +48,24 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="text-center lg:text-start text-white flex flex-col gap-2 mt-8 lg:mt-0 lg:flex-1/5">
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         About Us
                     </p>
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         Contact
                     </p>
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         Blog
                     </p>
                 </div>
                 <div className="text-center lg:text-start text-white flex flex-col gap-2 mt-2 lg:mt-0 lg:flex-1/5">
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         Careers
                     </p>
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         Support
                     </p>
-                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 w-fit">
+                    <p className="hover:text-primary-g cursor-pointer select-none transition duration-300 lg:w-fit">
                         Privacy Policy
                     </p>
                 </div>
